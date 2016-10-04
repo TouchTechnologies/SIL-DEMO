@@ -4,7 +4,6 @@
 //
 //  Created by naratorn sarobon on 6/17/2558 BE.
 //  Copyright (c) 2558 touchtechnologies. All rights reserved.
-//
 
 #import "AppDelegate.h"
 #import "popupStreaming.h"
